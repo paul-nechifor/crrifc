@@ -2,10 +2,10 @@ crrifc
 ======
 
 This is a multiplayer map-based quiz game (ConQUIZtador clone) written in C for
-Linux. I wrote this in my first year before doing network programming so it
-doesn't use socket, but rather named pipes. This means it would only work on the
-same computer. This was my intent since I wrote it in order to run it on Fenrir
-(the students' server of my faculty).
+Linux. I wrote this in my first year (2009) before doing network programming so
+it doesn't use sockets, but rather named pipes. This means it would only work on
+the same computer. This was my intent since I wrote it in order to run it on
+Fenrir (the students' server of my faculty).
 
 Sadly this repo is missing the data files since I'm not sure I should make them
 public, but you can ask me for them.
@@ -16,7 +16,7 @@ public, but you can ask me for them.
 
 ## The protocol
 
-This is how I documented it back then in Romanian.
+This is what I documented of it back then (in Romanian).
 
 ### Ce trimite clientul
 
