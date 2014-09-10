@@ -8,6 +8,8 @@
 void creazaInterfata(char* j1, char* j2, char* j3)
 {
 	int i, pe = (LUNGIME - 3 * 25) / 6;
+
+    int c = rand();
 	
 	move(START_PUNCTE, 0);
 
