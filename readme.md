@@ -1,3 +1,7 @@
+# This repository has been moved to [gitlab.com/paul-nechifor/crrifc](http://gitlab.com/paul-nechifor/crrifc).
+
+Old readme:
+
 # CRRIFC
 
 This is a multiplayer map-based quiz game (ConQUIZtador clone) written in C for
